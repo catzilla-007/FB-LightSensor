@@ -1,0 +1,6 @@
+LightSensor	KEYWORD1
+getValue	KEYWORD2
+setCeiling	KEYWORD2
+setFloor	KEYWORD2
+resetCeiling	KEYWORD2
+resetFloor	KEYWORD2

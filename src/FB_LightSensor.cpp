@@ -16,7 +16,7 @@ namespace FB {
   }
 
   void LightSensor::setCeiling(int value) {
-    _ceiling = value
+    _ceiling = value;
   }
 
   void LightSensor::resetFloor() {
