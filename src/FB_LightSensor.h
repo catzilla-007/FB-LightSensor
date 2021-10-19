@@ -1,10 +1,10 @@
+#include <Arduino.h>
+
 #ifndef FB_LIGHT_SENSOR_H
 #define FB_LIGHT_SENSOR_H
 
 #define DEFAULT_FLOOR     0
 #define DEFAULT_CEILING   1023
-
-#include <Arduino.h>
 
 namespace FB {
   class LightSensor {
