@@ -1,2 +1,2 @@
 # fb-light-sensor
-Franky Bot Light Sensor
+Library for measuring and calibrating light using generic photoresistor
